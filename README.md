@@ -1,6 +1,8 @@
 # teresa-teng
 
-### introduction
+*永远的邓丽君*
+
+### Introduction
 
 - [永远的邓丽君](http://www.teresa-teng.org/people.php)
 - [wikipedia](https://en.wikipedia.org/wiki/Teresa_Teng)
