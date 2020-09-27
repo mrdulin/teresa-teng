@@ -38,6 +38,7 @@ B站up主:
 - [日本BS放送特别节目--亚洲歌姬邓丽君](https://www.bilibili.com/video/BV1aW411v7Mb)
 - [邓丽君生诞60周年纪念-あなたと共に生きてゆく-BSスジ(2013.08.10)](https://www.bilibili.com/video/BV1bi4y147gt)
 - [何日君再来——邓丽君十周年祭](https://www.bilibili.com/video/av10337229/)
+- [NHK电视台邓丽君台湾采访拜祭纪念专辑-中日双语-「何日君再来」邓丽君・鄧麗君・Teresa Teng](https://www.bilibili.com/video/BV1xk4y1m71W)
   
 ### Musics
 
