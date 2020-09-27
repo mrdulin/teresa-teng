@@ -54,6 +54,9 @@ B站up主:
   - [IMDb](https://www.imdb.com/title/tt9636134/)
   - [douban](https://movie.douban.com/subject/26665271/)
   
+### Doodles
+
+- [邓丽君诞辰 65 周年](https://www.google.com/doodles/teresa-tengs-65th-birthday) - Google Doodles
   
 ### Others
 
