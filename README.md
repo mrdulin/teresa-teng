@@ -58,7 +58,8 @@ B站up主:
 
 - [恰似你的歌声：邓丽君传](https://book.douban.com/subject/26805306/)
 - [恰似你的温柔：永远的邓丽君](https://book.douban.com/subject/23217351/)
-- [絕響](https://book.douban.com/subject/21267048/)
+- [絕響](https://book.douban.com/subject/21267048/) - 台版 446页
+- [绝响](https://book.douban.com/subject/24283840/) - 大陆版 371页
   
 ### Doodles
 
