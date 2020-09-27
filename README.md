@@ -7,6 +7,7 @@
 - [永远的邓丽君](http://www.teresa-teng.org/people.php)
 - [wikipedia](https://en.wikipedia.org/wiki/Teresa_Teng)
 - [IMDb](https://www.imdb.com/name/nm0849340/)
+- [百度百科](https://baike.baidu.com/item/%E9%82%93%E4%B8%BD%E5%90%9B/27007)
 
 ### Videos
 
@@ -60,6 +61,7 @@ B站up主:
 - [恰似你的温柔：永远的邓丽君](https://book.douban.com/subject/23217351/)
 - [絕響](https://book.douban.com/subject/21267048/) - 台版 446页
 - [绝响](https://book.douban.com/subject/24283840/) - 大陆版 371页
+- [在旅途中遇見鄧麗君](https://book.douban.com/subject/3040273/)
   
 ### Doodles
 
