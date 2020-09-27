@@ -54,6 +54,12 @@ B站up主:
   - [IMDb](https://www.imdb.com/title/tt9636134/)
   - [douban](https://movie.douban.com/subject/26665271/)
   
+### Books
+
+- [恰似你的歌声：邓丽君传](https://book.douban.com/subject/26805306/)
+- [恰似你的温柔：永远的邓丽君](https://book.douban.com/subject/23217351/)
+- [絕響](https://book.douban.com/subject/21267048/)
+  
 ### Doodles
 
 - [邓丽君诞辰 65 周年](https://www.google.com/doodles/teresa-tengs-65th-birthday) - Google Doodles
