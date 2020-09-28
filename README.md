@@ -70,7 +70,7 @@ B站up主:
 - [絕響](https://book.douban.com/subject/21267048/) - 台版 446页
 - [绝响](https://book.douban.com/subject/24283840/) - 大陆版 371页
 - [在旅途中遇見鄧麗君](https://book.douban.com/subject/3040273/)
-- [追忆你是我一生的情愫：我眼中的邓丽君](https://book.douban.com/subject/33438182/) - 书的内容只有三分之一是关于邓丽君，剩下的是作者自传，无收藏价值，推荐阅读电子版。
+- [追忆你是我一生的情愫：我眼中的邓丽君](https://book.douban.com/subject/33438182/)
   
 ### Doodles
 
