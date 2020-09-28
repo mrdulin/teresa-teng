@@ -27,6 +27,7 @@ B站up主:
 
 - [邓丽君15周年巡回演唱会台北站（十亿个掌声）(1984.1.8)](https://www.bilibili.com/video/BV1Ab411h7zN)
 - [One & Only日本演唱会(1985.12.15)](https://www.bilibili.com/video/BV1Jf4y117Lb)
+- [1981年台中月光晚会中秋节演唱会现场](https://www.bilibili.com/video/BV13C4y1877g)
   
 纪念节目：
  
@@ -40,6 +41,13 @@ B站up主:
 - [邓丽君生诞60周年纪念-あなたと共に生きてゆく-BSスジ(2013.08.10)](https://www.bilibili.com/video/BV1bi4y147gt)
 - [何日君再来——邓丽君十周年祭](https://www.bilibili.com/video/av10337229/)
 - [NHK电视台邓丽君台湾采访拜祭纪念专辑-中日双语-「何日君再来」邓丽君・鄧麗君・Teresa Teng](https://www.bilibili.com/video/BV1xk4y1m71W)
+
+  - 2013年
+    - [追梦·巨星耀北京-邓丽君60周年纪念演唱会](https://www.bilibili.com/video/BV1QW411b7NG)
+    - 追梦-何日君再来 [A](https://www.bilibili.com/video/BV1dt4y127v3), [B](https://www.bilibili.com/video/BV1Ye411p7Jj)
+    
+  - 2015年
+    - [如果能许一个愿 邓丽君20周年虚拟人纪念演唱会](https://www.bilibili.com/video/BV1f4411Q7Rg) - 上海大舞台
   
 ### Musics
 
@@ -70,3 +78,9 @@ B站up主:
 ### Others
 
 - [财团法人邓丽君文教基金会](http://www.teresa-teng.org/)
+
+
+### 获奖记录
+
+- [2008    改革开放30周年30风云人物    （获奖）](./改革开放30周年30风云人物.md)
+
