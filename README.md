@@ -80,6 +80,10 @@ B站up主:
 - [财团法人邓丽君文教基金会](http://www.teresa-teng.org/)
 
 
+### 相关文章
+
+- [邓丽君： 一代中国人的初恋](http://news.ifeng.com/special/60nianjiaguo/60biaozhirenwu/renwuziliao/200909/0901_7766_1329269.shtml)
+
 ### 获奖记录
 
 - [2008    改革开放30周年30风云人物    （获奖）](./改革开放30周年30风云人物.md)
