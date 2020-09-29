@@ -1,6 +1,6 @@
 # *永远的邓丽君(Teresa Teng)*
 
-
+![](https://raw.githubusercontent.com/mrdulin/pic-bucket-01/master/teresa-tengs-65th-birthday-4912312048680960-2x.jpg)
 
 ### Introduction
 
@@ -84,6 +84,7 @@ B站up主:
 ### 相关文章
 
 - [邓丽君： 一代中国人的初恋](http://news.ifeng.com/special/60nianjiaguo/60biaozhirenwu/renwuziliao/200909/0901_7766_1329269.shtml)
+- [三木和荒木心中的鄧麗君](./三木和荒木心中的鄧麗君.md)
 
 ### 获奖记录
 
